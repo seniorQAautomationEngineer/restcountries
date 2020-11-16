@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+*.class
+video/
+reports/
+test-output/
